@@ -1,4 +1,4 @@
-# resume-reader
+# resume-parser-nodejs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
@@ -16,8 +16,8 @@ Uber4Developer
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/resume-reader.git
-cd resume-reader
+git clone https://github.com/amitdubeyup/resume-parser-nodejs.git
+cd resume-parser-nodejs
 
 # Install dependencies
 npm install
@@ -50,7 +50,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-resume-reader/
+resume-parser-nodejs/
 ├── package.json
 ├── .env.example
 ├── README.md
